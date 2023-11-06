@@ -1,0 +1,6 @@
+_base.hxml
+-lib hlsdl
+-lib nape-haxe4
+
+-hl bin/client.hl
+--cmd hl bin/client.hl
